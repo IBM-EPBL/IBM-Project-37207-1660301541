@@ -16,3 +16,5 @@ The project aims to develop a system that converts the sign language into a huma
 | Swetha S M   | 311119106055   | 
 | Sruthi B     | 311119106053   |
 | Geetha P     | 311119106015   |
+
+Demo Link: https://youtu.be/cc2O80iXgkA
